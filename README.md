@@ -1,5 +1,5 @@
-# Projeto 1 de Fundamentos da Programação
-**Instituto Superior Técnico**
+# Projeto
+
 
 Este repositório deverá conter a solução do seu projecto de FP. 
 A solução deve estar toda ela num único *script* ou programa Python: `FP2425P1.py`. 
